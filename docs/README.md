@@ -67,7 +67,7 @@ La autorización se controla mediante los roles asignados a cada usuario.
 
 Para conocer en detalle el funcionamiento del sistema de seguridad:
 
-**[Seguridad](/seguridad.md)**
+**[Seguridad](/docs/seguridad.md)**
 
 ## API
 
@@ -83,7 +83,7 @@ Los principales recursos son:
 
 La documentación detallada de los endpoints se encuentra en:
 
-**[API](/api.md)**
+**[API](/docs/api.md)**
 
 ## Reglas de negocio
 
@@ -91,7 +91,7 @@ Las operaciones del sistema siguen determinadas reglas relacionadas con el inven
 
 Estas reglas se encuentran documentadas en:
 
-**[Reglas de negocio](/reglas-de-negocio.md)**
+**[Reglas de negocio](/docs/reglas-de-negocio.md)**
 
 ## Base de datos
 
@@ -99,7 +99,7 @@ Keventa utiliza PostgreSQL como sistema de gestión de base de datos y Spring Da
 
 La documentación de las entidades, atributos y relaciones se encuentra en:
 
-**[Base de datos](/bd.md)**
+**[Base de datos](/docs/bd.md)**
 
 ## Documentación
 
