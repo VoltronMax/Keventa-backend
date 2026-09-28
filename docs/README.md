@@ -55,7 +55,7 @@ Cada módulo mantiene sus propias capas de Controller, Service, Repository, DTO 
 
 La estructura y las decisiones arquitectónicas del proyecto se encuentran documentadas en:
 
-**[Arquitectura](/arquitectura.md)**
+**[Arquitectura](/docs/arquitectura.md)**
 
 ## Seguridad
 
