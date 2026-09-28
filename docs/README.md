@@ -55,7 +55,7 @@ Cada módulo mantiene sus propias capas de Controller, Service, Repository, DTO 
 
 La estructura y las decisiones arquitectónicas del proyecto se encuentran documentadas en:
 
-**[Arquitectura](docs/arquitectura.md)**
+**[Arquitectura](/arquitectura.md)**
 
 ## Seguridad
 
@@ -67,7 +67,7 @@ La autorización se controla mediante los roles asignados a cada usuario.
 
 Para conocer en detalle el funcionamiento del sistema de seguridad:
 
-**[Seguridad](docs/seguridad.md)**
+**[Seguridad](/seguridad.md)**
 
 ## API
 
@@ -83,7 +83,7 @@ Los principales recursos son:
 
 La documentación detallada de los endpoints se encuentra en:
 
-**[API](docs/api.md)**
+**[API](/api.md)**
 
 ## Reglas de negocio
 
@@ -91,7 +91,7 @@ Las operaciones del sistema siguen determinadas reglas relacionadas con el inven
 
 Estas reglas se encuentran documentadas en:
 
-**[Reglas de negocio](docs/reglas-de-negocio.md)**
+**[Reglas de negocio](/reglas-de-negocio.md)**
 
 ## Base de datos
 
@@ -99,7 +99,7 @@ Keventa utiliza PostgreSQL como sistema de gestión de base de datos y Spring Da
 
 La documentación de las entidades, atributos y relaciones se encuentra en:
 
-**[Base de datos](docs/bd.md)**
+**[Base de datos](/bd.md)**
 
 ## Documentación
 
